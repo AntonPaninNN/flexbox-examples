@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    background-color: lightgray;
+}
+
+.element-common {
+    background-color: red;
+    color: white;
+    margin: 10px;
+    font-size: 48;
+    padding: 10px;
+}
+
+.element-1 {
+    flex-grow: 1;
+}
+
+.element-2 {
+    flex-grow: 2;
+}
+
+.element-3 {
+    flex-grow: 3;
+}
+
+.element-4 {
+    flex-grow: 4;
+}
+
+.element-5 {
+    flex-grow: 5;
+}

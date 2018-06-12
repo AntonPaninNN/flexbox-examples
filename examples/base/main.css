@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    background-color: lightgray;
+}
+
+.element {
+    background-color: red;
+    color: white;
+    margin: 10px;
+    font-size: 48;
+    padding: 10px;
+}

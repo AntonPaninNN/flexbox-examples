@@ -1,0 +1,19 @@
+.container-row {
+    display: flex;
+    background-color: lightgray;
+    flex-direction: row;
+}
+
+.container-column {
+    display: flex;
+    background-color: lightgray;
+    flex-direction: column;
+}
+
+.element {
+    background-color: red;
+    color: white;
+    margin: 10px;
+    font-size: 48;
+    padding: 10px;
+}

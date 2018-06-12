@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    background-color: lightgray;
+}
+
+.inner-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background-color: gray;
+}
+
+.element {
+    background-color: red;
+    color: white;
+    margin: 10px;
+    font-size: 48;
+    padding: 10px;
+}
+
+.inner-element-1 {
+    flex-grow:1;
+}
+
+.inner-element-2 {
+    flex-grow:3;
+}
